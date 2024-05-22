@@ -2,5 +2,10 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: lightblue;
+  font-family: sans-serif;
+  color: white;
+}
+
+body {
+  background: #070a52;
 }
