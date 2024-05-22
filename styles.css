@@ -7,5 +7,14 @@
 }
 
 body {
-  background: #070a52;
+  background: #071952;
+}
+
+.card {
+  width: 700px;
+  background: #0b666a;
+  padding: 20px;
+  margin: 20px;
+  font-family: sans-serif;
+  line-height: 28px;
 }
