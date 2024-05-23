@@ -26,6 +26,6 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #0b666a;
-  border-radius: 100%;
+  background: linear-gradient(#47b5ff, #dff6ff);
+  border-radius: 100px;
 }
